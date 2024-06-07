@@ -21,7 +21,7 @@ This paper introduces a method for integrating ancient Vastu Shastra principles 
 ![image](https://github.com/ANUSHKKA-DHAMIJA/Vastu-Tool/assets/108456134/b95b2cf0-94e6-4770-8236-2edc7ea0e99b)
 
 ## 6. AI Chat Interface can be enabled from the toggle in the left panel.
-![image](https://github.com/ANUSHKKA-DHAMIJA/Vastu-Tool/assets/108456134/935d0c41-7ee0-4b4b-8094-0debb8104272)
+![image](https://github.com/ANUSHKKA-DHAMIJA/Vastu-Tool/assets/108456134/be023f00-2465-4af5-b358-63da8b30f30a)
 
 ## Below is a JS code snippet which shows the logic behind calculating the (x, y) coordinate while pinning.
 ![image](https://github.com/ANUSHKKA-DHAMIJA/Vastu-Tool/assets/108456134/759bef44-54f7-497d-b23a-8369c16802f1)
